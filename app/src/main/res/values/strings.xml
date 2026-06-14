@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Intercetta il pulsante Volume su per bloccare lo schermo o svegliarlo, invece di alzare il volume. Richiesto perché Android non consente alle app normali di leggere i tasti hardware senza il servizio di accessibilità.</string>
+</resources>
